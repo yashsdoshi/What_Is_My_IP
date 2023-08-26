@@ -1,5 +1,6 @@
 # :octocat: What's my IP?
-
+<hr />
+<br />
 This is a simple website made using,
 
 1. <b>`https://api64.ipify.org?format=json`</b>  It returns the user's public IP address!
