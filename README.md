@@ -1,6 +1,4 @@
-<p align="center">
-# :octocat: What's my IP?
-</p>
+## <div align="center">:octocat:What's My IP?</div>
 <hr />
 <br />
 This is a simple website made using,
